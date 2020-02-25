@@ -1,1 +1,1 @@
-# trajectory-files
+# Characterization stuff
